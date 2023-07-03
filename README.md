@@ -1,7 +1,7 @@
 ## CSI500_Quant_Strategy
 
 ### Highlights
-1. **Only based on daily <open，high，low，close，volunme，amount> data**, because I have no Wind Database nearby. If I can add some basic quality factors, wind consensus factors into it, the return will be 20% higher, better sharpe ratio, smaller max-drawdown, you can go for details in (https://personal-web-nf101.github.io/My_quant_strategy). If you want to know how this strategy perform in CSI300 Index, CSI500 Index, Equity Tilt Index Product, you can go for details in (https://personal-web-nf101.github.io/Daily_Price_and_Volume_Alpha).
+1. **Only based on daily <open，high，low，close，volunme，amount> data**, because I have no Wind Database nearby. If I can add some basic quality factors, wind consensus factors into it, the return will be 20% higher, better sharpe ratio, smaller max-drawdown, you can go for details in [https://personal-web-nf101.github.io/My_quant_strategy]. If you want to know how this strategy perform in CSI300 Index, CSI500 Index, Equity Tilt Index Product, you can go for details in [https://personal-web-nf101.github.io/Daily_Price_and_Volume_Alpha].
    
 2. All parameters are based on grid search or the sub nerual network inferring/learning, quite automated.
 
