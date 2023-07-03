@@ -13,7 +13,7 @@
 
 cumsum alpha: top 20% equal weighted - csi500; top 20% equal weighted - tail 20% equal weighted
 
-![Image text]([https://github.com/Neural-Finance/Cross_sample_financial_feature_engineering/blob/master/fig/1.png](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500_Long-term%20Backtesting.png))
+![Image text](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500_Long-term%20Backtesting.png)
 
 
 
