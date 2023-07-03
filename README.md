@@ -17,6 +17,24 @@ cumsum alpha: top 20% equal weighted - csi500; top 20% equal weighted - tail 20%
 
 **2. All Factors Backtesting Result**
 
-cumsum alpha: top 20% equal weighted - csi500; top 20% equal weighted - tail 20% equal weighted
+Show the performance of some compounded alpha factors, some of them are a single neural network, has sub network to infer parameters or decide how to combine things
 
 ![Image text](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500_all_factors%20Backtesting.png)
+
+**3. Summary of Backtesting Result**
+
+All the indicators are calculated afterfee, this fee is decent.
+
+![Image text](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500_Table%20Backtesting.png)
+
+**4. 2023 YTD Backtesting Result**
+
+![Image text](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500_YTD%20Backtesting.png)
+
+**5. 2023 YTD Backtesting Result Compared with Huaxia**
+
+Huaxia Fund, its English name is the China Asset Management Fund, their CSI500 product is almost the best among mutual fund industry (both suffer from bad trading environment and prefer low turnover strategy). I compare my half-way product with them.
+
+![Image text](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500__compare_with_huaxia.png)
+
+**Thanks for your attention! Please feel free to reach out, if you have any questions or interests! via alex.holla@foxmail.com** 
