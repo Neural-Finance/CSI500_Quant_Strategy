@@ -33,7 +33,7 @@ All the indicators are calculated afterfee, this fee is decent.
 
 **5. 2023 YTD Backtesting Result Compared with Huaxia**
 
-Huaxia Fund, its English name is the China Asset Management Fund, their CSI500 product (Red) is almost the best among mutual fund industry (both suffer from bad trading environment and prefer low turnover strategy). I compare my half-way product with them (Blue).
+Huaxia Fund, its English name is the China Asset Management Fund, their CSI500 product (Blue) is almost the best among mutual fund industry (both suffer from bad trading environment and prefer low turnover strategy). I compare my half-way product with them (Red).
 
 ![Image text](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500_compare_with_huaxia.png)
 
