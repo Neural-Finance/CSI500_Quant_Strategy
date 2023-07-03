@@ -35,6 +35,6 @@ All the indicators are calculated afterfee, this fee is decent.
 
 Huaxia Fund, its English name is the China Asset Management Fund, their CSI500 product is almost the best among mutual fund industry (both suffer from bad trading environment and prefer low turnover strategy). I compare my half-way product with them.
 
-![Image text](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500__compare_with_huaxia.png)
+![Image text](https://github.com/Neural-Finance/CSI500_Quant_Strategy/blob/main/CSI500_compare_with_huaxia.png)
 
 **Thanks for your attention! Please feel free to reach out, if you have any questions or interests! via alex.holla@foxmail.com** 
